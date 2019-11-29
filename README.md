@@ -12,7 +12,7 @@ Palabras clave: Plantío, Cartografía, Exportación number of these are exporte
 Keywords: Planting, Cartography, Export 
 1. 	Introducción
 Se pretende realizar con ayuda de imágenes satelitales conocer puntos estratégicos para el cultivo de plátanos, enfocándonos en Tecoman, Manzanillo y Armería, con la finalidad de cono-cer los diferentes tipos que se maneja en el estado de Colima.
-![palabrasdeTextoAlternativo]
+![palabrasdeTextoAlternativo](https://github.com/Arturo-123/Calculo-de-Superficie/blob/master/poster.jpg)
 2. 	Desarrollo
 Dentro de este trabajo se realizó un estudio de las zonas plataneras que hay en el estado de Colima, en los municipios de Tecoman, Armería y Manzanillo, con la ayuda de imágenes sateli-tales, que proporciona el INEGI. Este trabajo se hará en la librería de GDAL es una biblioteca de software para la lectura y escritura de formatos de datos geoespaciales, publicada bajo la MIT License por la fundación geoespacial de código abierto.
 2.1. 	Metodología
