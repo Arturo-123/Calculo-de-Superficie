@@ -6,14 +6,14 @@ Arturo Benito Angulo Silva (1), Ricardo Javier Montes (2), Cielo Jazziris Campos
 Resumen
 En este proyecto se pretende realizar un estu-dio acerca de los puntos estratégicos para el plantío de plátanos, que, en el municipio de Tecomán, Colima se exporta una gran cantidad de estos, con las herramientas que hasta ahora tenemos en las materias de Cartografía Digital y Programación de computadoras.
 Palabras clave: Plantío, Cartografía, Exportación 
-Resumen
+#Resumen
 En este proyecto se pretende realizar un estu-dio acerca de los puntos estratégicos para el plantío de plátanos, que, en el municipio de Tecomán, Colima se exporta una gran cantidad de estos, con las herramientas que hasta ahora tenemos en las materias de Cartografía Digital y Programación de computadoras.
 Palabras clave: Plantío, Cartografía, Exportación number of these are exported, with the tools we have so far in the areas of Digital Cartography and Computer Programming.
 Keywords: Planting, Cartography, Export 
-1. 	Introducción
+#Introducción
 Se pretende realizar con ayuda de imágenes satelitales conocer puntos estratégicos para el cultivo de plátanos, enfocándonos en Tecoman, Manzanillo y Armería, con la finalidad de cono-cer los diferentes tipos que se maneja en el estado de Colima.
 ![palabrasdeTextoAlternativo](https://github.com/Arturo-123/Calculo-de-Superficie/blob/master/poster.jpg)
-2. 	Desarrollo
+#Desarrollo
 Dentro de este trabajo se realizó un estudio de las zonas plataneras que hay en el estado de Colima, en los municipios de Tecoman, Armería y Manzanillo, con la ayuda de imágenes sateli-tales, que proporciona el INEGI. Este trabajo se hará en la librería de GDAL es una biblioteca de software para la lectura y escritura de formatos de datos geoespaciales, publicada bajo la MIT License por la fundación geoespacial de código abierto.
 2.1. 	Metodología
 Se desarrolló una investigación (González-Rodríguez, M.S. Escalona-Maurice, M.J. ; Her-nández-Juárez, M. ; Figueroa-Rodríguez, O.L. ; Caamal-Cauich, I.2, 2017) “en Tecomán Coli-ma, México, el cual está ubicado en la porción sureste del estado (103° 59’ a 103° 73’ O y 18° 41’ 20’’ a 19° 06’ N) (INAFED, 2017). En este municipio, los principales tipos de cultivos son perennes y en menor grado cíclicos, existen 38,308 ha de uso agrícola (INEGI, 2016), y destaca por la producción de Plátano, situándo-se como el principal productor de esta fruta a nivel estatal (SIAP, 2016). De acuerdo con el Consejo Estatal de Productores de Plátano de Colima S.C. (CEPPC) la región platanera más importante de Tecomán, se ubica en la locali-dad de Cerro de Ortega, es por esto que se delimito esta zona como el área de estudio. En dicha región existen 25 cuadrillas identificadas por productores que trabajan en el proceso de corte y empaque; cada cuadrilla consta de 12 personas en campo, y para el tamaño de mues-tra se muestreo al 32% del número total de cuadrillas en la comunidad, aplicando una lista de verificación para evaluar las actividades que realizan, se encuesto al 21.3% de la población total que se dedica al proceso de corte y em-paque de plátano en la localidad de estudio.”
@@ -40,7 +40,7 @@ Se trabajará en el sistema operativo Windows
 Para este necesitamos una computadora portá-til con las siguientes características:
  
 
-4. 	Resultados
+#Resultados
 Finalmente, como resultado obtuvimos que la planta del plátano tiene una productividad por hectárea de 5700 kg aproximadamente, por los que con ayuda de cálculos se llegó a la pro-ducción total que se estima en dos parcelas de 5 Hectáreas cada una, una producción total de 57 toneladas.
  
 Lo que el programa se encargo de hacer fue, con ayuda de puntos calcular la superfie, y al finl multiplicar la cantidad de puntos por la superficie de cada uno, con eso se calculo el numero de plantas y al final de ello la producción.
